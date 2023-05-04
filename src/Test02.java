@@ -4,5 +4,9 @@ public class Test02 {
         System.out.println("Hello World!");
         System.out.println("I'm Gelani Aushev");
 
+        for (int i = 0; i < 5; i++) {
+            System.out.println(i);
+        }
+
     }
 }
